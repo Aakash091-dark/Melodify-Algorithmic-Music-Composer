@@ -105,7 +105,8 @@ st.graphviz_chart(nx.nx_agraph.to_agraph(note_graph))
 ## **UI Preview**
 Below is a conceptual representation of the UI:
 
-UI.png
+![UI](https://github.com/user-attachments/assets/0f82774e-e174-44fd-8a71-e9152bb2c45c)
+
 
 - **Top Section:** Title and description.
 - **Sidebar:** User inputs for mood, duration, and seed notes.
