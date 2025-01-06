@@ -38,7 +38,7 @@
    - Users can listen to the generated melody or export it as a MIDI file.
 
 ## **Code Snippet**
-Below is a simplified version of the `app.py` script:
+Below is a simplified version of the `music.py` script:
 
 ```python
 import streamlit as st
